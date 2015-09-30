@@ -1,7 +1,11 @@
 # Tcp-ip-project-
 Team Name: NT-2D
 
-Student Name: JEYAGANESAN BELLBEM - 1092701059 Student Name: VISHYLEAN RAJENDRAN - 1112702160
+Student Name: JEYAGANESAN BELLBEM - 1092701059 
+-developing server side
+
+Student Name: VISHYLEAN RAJENDRAN - 1112702160
+-developing client side
 
 Development of File Repository System using Client-Server TCP/IP Model
 
